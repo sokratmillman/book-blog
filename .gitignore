@@ -1,0 +1,6 @@
+vite-client
+custom-client
+server/env
+**/__pycache__
+**/*.db
+.env
